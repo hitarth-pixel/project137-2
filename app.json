@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "blessed-chocolate",
+    "slug": "snack-e7da8eda-6837-4562-a632-a13e8bdf2a1a",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.hitarthexpo.snacke7da8eda68374562a632a13e8bdf2a1a"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
